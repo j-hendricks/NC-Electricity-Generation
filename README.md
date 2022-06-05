@@ -15,7 +15,7 @@ The line chart shows that, for coal and natural gas, NC produced the majority of
 
 ## By Industry
 
-Electric Generators for utilities (private companies that distribute energy for utility needs) generated the most electricity out of all industries (see chart below) at 85%. Adding independent power producers, a total of 94% of energy is produced by electric generators. In contrast, the U.S. at large produces 76% its electricity from generators, and relies on Combined Heat and Power (industry that provides heating to buildings and infrastructure) for the other 24%. NC is a relatively warm state, so it is intuitive that the state would have less dependence on heating compared to the U.S. at large.
+Electric Generators for utilities (private companies that distribute energy for utility needs) generated the most electricity out of all industries in NC (see chart below) at 85%. Adding independent power producers, a total of 94% of energy was produced by electric generators in NC. In contrast, the U.S. at large produces 76% its electricity from generators, and relies on Combined Heat and Power (industry that provides heating to buildings and infrastructure) for the other 24%. NC is a relatively warm state, so it is intuitive that the state would have less dependence on heating compared to the rest of the country.
 
 ![Total-Energy-Produced-NC](Total-Energy-Produced-NC.png)
 
