@@ -29,7 +29,9 @@ The line chart below shows that the fluctuation in energy production in NC is a 
 
 In NC from 2001-2005, energy production oscillated by the time of the year. In the months of July and August, production skyrocketed, then plummeted in September, only to skyrocket again in July of next year. More research must be done to find out why this is. One guess is that the energy needs to be stored so that it is ready to be used in the winter months, where the need for indoor heating increases. 
 
-Electric generators for utilities produced the vast majority of the energy in NC, and the same goes for the U.S. overall. The majority of electricity in NC is produced by coal, with natural gas being a close second. However, natural gas showed an increase in energy generation from 2003 to 2005 while coal remained steady. The energy generation of natural gas, nevertheless, is too unstable in the these 5 years to make any projections. 
+Electric generators for utilities produced the vast majority of the energy in NC, and the same goes for the U.S. overall. The majority of electricity in NC is produced by coal, with natural gas being a close second. However, natural gas showed an increase in energy generation from 2003 to 2005 while coal remained steady, as seen in the line chart below. The energy generation of natural gas, nevertheless, is too unstable in the these 5 years to make any projections.
+
+![NC-Generation-Yearly](NC-Generation-Yearly.png)
 
 There was an unusual use of natural gas in 2002, making it the most used energy source that year in NC. More research must be done to determine why the energy needs of the state in 2002 were higher than the other years. 
 
