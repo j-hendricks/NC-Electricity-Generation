@@ -5,25 +5,25 @@ North Carolina, like the rest of the United States, produces large amounts of el
 
 NC produced 1% of the electricity generated in the United States from 2001-2006. Texas and California together produced 36%, or 36 times that of NC. The difference between these states has to do with size and population density - NC is largely composed of farmland and mountains, with relatively small cities compared to those in TX and CA. TX has the largest production by state because of the high demand from private companies in the state (https://comptroller.texas.gov/economy/fiscal-notes/2020/august/ercot.php). 
 
-![Energy-Generation-By-State](/Users/johnwhendricks/Desktop/EnergyGenerationByState/Energy-Generation-By-State.png) 
+![Energy-Generation-By-State](Energy-Generation-By-State.png) 
 
 The line chart shows that, for coal and natural gas, NC produced the majority of its energy in the early Fall, and produces relatively little for the rest of the year. In other words, an oscillation occurs. Perhaps a large bulk of the electricity is immediately stored during the Fall and used during the winter when the demand is highest? This is just a conjecture and needs to be backed by proper sources. Natural gas has the greatest fluctuation in its energy production. Nevertheless, when analyzing the bar chart below, most energy was derived from coal. The exception is 2002, where energy from natural gas exceeded that of coal by a slight margin. It should also be noted that petroleum produced a significant, though relatively small amount of electricity to the electrical industry - petroleum is used more for transportation than electricity production.   
 
-![Time-Series-2001-2005](/Users/johnwhendricks/Desktop/EnergyGenerationByState/Time-Series-2001-2005.png)
+![Time-Series-2001-2005](Time-Series-2001-2005.png)
 
-![stacked-bar-graph-NC](/Users/johnwhendricks/Desktop/EnergyGenerationByState/stacked-bar-graph-NC.png)
+![stacked-bar-graph-NC](stacked-bar-graph-NC.png)
 
 ## By Industry
 
 Electric Generators for utilities (private companies that distribute energy for utility needs) generated the most electricity out of all industries (see chart below) at 85%. Adding independent power producers, a total of 94% of energy is produced by electric generators. In contrast, the U.S. at large produces 76% its electricity from generators, and relies on Combined Heat and Power (industry that provides heating to buildings and infrastructure) for the other 24%. NC is a relatively warm state, so it is intuitive that the state would have less dependence on heating compared to the U.S. at large.
 
-![Total-Energy-Produced-NC](/Users/johnwhendricks/Desktop/EnergyGenerationByState/Total-Energy-Produced-NC.png)
+![Total-Energy-Produced-NC](Total-Energy-Produced-NC.png)
 
-![Total-Energy-US](/Users/johnwhendricks/Desktop/EnergyGenerationByState/Total-Energy-US.png)
+![Total-Energy-US](Total-Energy-US.png)
 
 The line chart below shows that the fluctuation in energy production in NC is a result of the fluctuation in production by the electric generators for utilities. The chart also emphasizes that electric generators are the primary means of energy production in NC. 
 
-![Electricity-Generation-By-Industry](/Users/johnwhendricks/Desktop/EnergyGenerationByState/Electricity-Generation-By-Industry.png)
+![Electricity-Generation-By-Industry](Electricity-Generation-By-Industry.png)
 
 ## Final Thoughts
 
