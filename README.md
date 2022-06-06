@@ -3,7 +3,7 @@ North Carolina, like the rest of the United States, produces large amounts of el
 
 ## Electricity Generation in NC
 
-NC produced 1% of the electricity generated in the United States from 2001-2006. Texas and California together produced 36%, or 36 times that of NC. The difference between these states has to do with size and population density - NC is largely composed of farmland and mountains, with relatively small cities compared to those in TX and CA. TX has the largest production by state because of the high demand from private companies in the state (https://comptroller.texas.gov/economy/fiscal-notes/2020/august/ercot.php). 
+NC produced 1% of the electricity generated in the United States from 2001-2006. Texas and California together produced 36%, or 36 times that of NC. The difference between these states has to do with size and population density - NC is largely composed of farmland and mountains, with relatively small cities compared to those in TX and CA. TX has the largest production by state because of the high demand from private companies in the state [(1)](https://comptroller.texas.gov/economy/fiscal-notes/2020/august/ercot.php). 
 
 ![Energy-Generation-By-State](Energy-Generation-By-State.png) 
 
